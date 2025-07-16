@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "Poriya Aghamiri | Frontend Developer",
+    "description": "Hi, I'm Poriya — a frontend developer specializing in React.js, Next.js, and modern web applications. Check out my projects, skills, and contact me here.",
+    "keywords": [
+      "Poriya Aghamiri",
+      "frontend developer",
+      "React developer",
+      "Next.js portfolio",
+      "web developer",
+      "JavaScript developer",
+      "Iran programmer",
+      "personal portfolio",
+      "hire frontend developer"
+    ],
+    "authors": [
+      {
+        "name": "Poriya Aghamiri",
+        "url": "https://yourdomain.com"
+      }
+    ],
+    "creator": "Poriya Aghamiri",
+    "openGraph": {
+      "title": "Poriya Aghamiri | Frontend Developer",
+      "description": "Explore my projects, skills, and experience as a React and Next.js developer.",
+      "url": "https://yourdomain.com",
+      "siteName": "Poriya Aghamiri Portfolio",
+      "images": [
+        {
+          "url": "https://yourdomain.com/og-image.jpg",
+          "width": 1200,
+          "height": 630,
+          "alt": "Poriya Aghamiri Portfolio"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Poriya Aghamiri | Frontend Developer",
+      "description": "Hi, I'm Poriya — a React and Next.js developer. Check out my portfolio and projects.",
+      "site": "@yourtwitterhandle",
+      "creator": "@yourtwitterhandle",
+      "images": ["https://yourdomain.com/og-image.jpg"]
+    }
+  },
+  "Hero": {
+    "title": "Welcome to My Portfolio"
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I'm a web developer..."
+  }
+}

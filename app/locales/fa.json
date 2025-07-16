@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "پوریا آقامیری | توسعه‌دهنده فرانت‌اند",
+    "description": "سلام! من پوریا آقامیری هستم — توسعه‌دهنده فرانت‌اند متخصص در React.js و Next.js. پروژه‌ها و مهارت‌هایم را ببینید و با من در ارتباط باشید.",
+    "keywords": [
+      "پوریا آقامیری",
+      "توسعه‌دهنده فرانت‌اند",
+      "توسعه‌دهنده React",
+      "نمونه کار Next.js",
+      "توسعه‌دهنده وب",
+      "برنامه‌نویس جاوااسکریپت",
+      "برنامه‌نویس ایرانی",
+      "پورتفولیوی شخصی",
+      "استخدام توسعه‌دهنده فرانت‌اند"
+    ],
+    "authors": [
+      {
+        "name": "پوریا آقامیری",
+        "url": "https://yourdomain.com"
+      }
+    ],
+    "creator": "پوریا آقامیری",
+    "openGraph": {
+      "title": "پوریا آقامیری | توسعه‌دهنده فرانت‌اند",
+      "description": "پروژه‌ها، مهارت‌ها و تجربه‌های من را به‌عنوان توسعه‌دهنده React و Next.js ببینید.",
+      "url": "https://yourdomain.com",
+      "siteName": "پوریا آقامیری پورتفولیو",
+      "images": [
+        {
+          "url": "https://yourdomain.com/og-image.jpg",
+          "width": 1200,
+          "height": 630,
+          "alt": "پوریا آقامیری پورتفولیو"
+        }
+      ],
+      "locale": "fa_IR",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "پوریا آقامیری | توسعه‌دهنده فرانت‌اند",
+      "description": "سلام! من پوریا آقامیری هستم — توسعه‌دهنده React و Next.js. نمونه‌کار و پروژه‌هایم را ببینید.",
+      "site": "@yourtwitterhandle",
+      "creator": "@yourtwitterhandle",
+      "images": ["https://yourdomain.com/og-image.jpg"]
+    }
+  },
+  "Hero": {
+    "title": "به پورتفولیوی من خوش آمدید"
+  },
+  "About": {
+    "title": "درباره من",
+    "description": "من یک توسعه‌دهنده وب هستم..."
+  }
+}
